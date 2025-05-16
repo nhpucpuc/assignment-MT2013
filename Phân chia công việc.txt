@@ -1,0 +1,28 @@
+Phân chia công việc:
+** Lý thuyết (2 người): Bảo, Quân
+Quân: 
+1. Giới thiệu về dữ liệu (data)
+2. Thống kê mô tả
+3. Bài toán: Kiểm định 1 mẫu
+Bảo:
+1. Thống kê suy diễn
+2. Phân tích dữ liệu
+3. Bài toán: Kiểm định 2 mẫu
+** Code (4 người): Còn lại
+* Thống kê mô tả:
+  1. Làm sạch, làm rõ dữ liệu.
+  2. Vẽ các biểu đồ Histogram; boxplot; pair
+* Thống kê suy diễn:
+  - Đặt ra các bài toán, mỗi bài toán cần kiểm tra các điều kiện (tối thiểu 3 bài):
+    1. Bài toán 1 mẫu (Sang) 
+    2. Bài toán 2 mẫu (Sơn)
+    3. Bài toán phân tích phương sai (Anova) (Hiển)
+    4. Bài toán hồi quy tuyến tính đơn (nâng cao: HQTT bội; HQ logistic) (Đức)
+* Đưa code của mình viết lên github.
+** Viết báo cáo (2 người): Công, Phúc
+  * Định dạng bài báo cáo
+  * Tổng kết nội dung
+    1. Nhận nội dung lý thuyết và chắt lọc.
+    2. Đọc nội dung code, hiểu ý nghĩa các đồ thị và đưa vào từng phần.
+Công: Bài toán: Hồi quy tuyến tính bội
+Phúc: Bài toán: Phân tích phương sai

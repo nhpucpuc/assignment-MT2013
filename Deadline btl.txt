@@ -1,0 +1,37 @@
+**** Deadline btl: trong khoảng từ ngày 27/4 -> 29/4 sẽ nộp folder.zip cho cô theo link ****
+
+**Deadline của mỗi phần:
+
+* Nhóm lý thuyết: 
+
+--8/4 -> 12/4--
+    + Đọc hiểu lý thuyết HQTT, Anova, ước lượng, kiểm định.
+    + Hoàn thành việc tìm kiếm các thông tin cần thiết.
+    + Đặt ra bài toán và giải trước.
+-- 13/4 -> 26/4 --
+    + Tìm hiểu, hỗ trợ các nhóm còn lại.
+    + Có thể hỗ trợ nhóm viết báo cáo chỉnh sửa lại nội dung sao cho phù hợp.
+
+* Nhóm code:
+
+-- 8/4 -> 12/4 --
+    + Tìm hiểu về các lệnh của R để tính toán, vẽ histogram, boxplot, pair,...
+    + Đọc hiểu lý thuyết HQTT, Anova, ước lượng, kiểm định.
+-- 13/4 -> 20/4 --
+    + Lọc các thông tin trong file CPUs.csv và vẽ các đồ thị tương ứng (nếu cần). Có thể tham khảo file.R và file pdf mẫu đã gửi trong group.
+    + Hiện thực các bài toán đã được các thành viên của nhóm lý thuyết và báo cáo đặt ra, kiểm chứng kết quả.
+
+* Nhóm soạn báo cáo:
+
+-- 8/4 -> 12/4 --
+    + Đọc hiểu lý thuyết HQTT, Anova, ước lượng, kiểm định.
+    + Chỉnh sửa định dạng, trang bìa của bài báo cáo.
+    + Đặt ra bài toán và giải trước.
+-- 13/4 -> 20/4 --
+    + Tổng hợp, kiểm định lại lý thuyết mà nhóm lý thuyết gửi.
+    + Viết báo cáo phần lý thuyết.
+-- 21/4 -> 26/4 --
+    + Dựa vào các đồ thị đã được kiểm chứng của nhóm code, nêu ý nghĩa đồ thị và soạn ra báo cáo.
+
+*** 27/4 -> 29/4: Kiểm tra, đánh giá lại toàn bộ btl.
+
